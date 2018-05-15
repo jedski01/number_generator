@@ -4,7 +4,7 @@
 
 ## Building
 1. Run ```npm install``` in the root folder
-2. In the client folder, run ```npm run build```
+2. In the client folder, run ```npm install``` and ```npm run build```
 
 ## Running
 
